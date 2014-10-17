@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[jac:home|Door43 (jac)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-jac|d43-jac repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-jac/archive/master.zip|d43-jac.zip]]
+
+**Recent Changes**
+{{changes>ns = jac}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/jac|Ethnologue data]]
+
